@@ -44,7 +44,7 @@ Py | 0.1533
 Vx | 0.5942
 Vy | 0.4724
 
-Finally, I recorded errors for a run where the lidar was processed as normal and the radar measurements were converted to cartesian coordinates and processed ans lidar measurements.
+Finally, I recorded errors for a run where the lidar was processed as normal and the radar measurements were converted to cartesian coordinates and processed as lidar measurements as well.
 
 Variable | Measure
 -----|-----
